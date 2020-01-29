@@ -15,7 +15,7 @@ close all
 N=100; % Number of particles
 sigma=1.5; % Radius where phi(r_ij)=0 
 m=1; % mass of each particle
-eps=150; % Interaction strength
+eps=500; % Interaction strength
 L=30; % Length of a wall of square box,particles are in [-L/2,L/2]x[-L/2,L/2]
 
 % Time, Steps
